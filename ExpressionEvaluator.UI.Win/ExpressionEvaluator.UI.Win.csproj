@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExpressionEvaluator.Core\ExpressionEvaluator.Core.csproj" />
+  </ItemGroup>
+
 </Project>
